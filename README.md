@@ -38,6 +38,7 @@ I'm a **Software Engineer** focused on building high-performance systems and men
 
 *  **[Lockkin.tech](https://www.lockkin.tech/)** — Leading an engineering training school to mentor the next generation of world-class developers.
 *  **[Parcel Management System](https://parcel-loidc.ondigitalocean.app/)** — A production-ready logistics solution built to streamline parcel tracking and operations for Kenyan bus companies.
+*  * 🐦 **[Budgie](https://first-dark-sea-8115.fly.dev/)** — An automated financial tracking system designed to streamline invoicing and cash flow for SMEs.
 
 
 ---
