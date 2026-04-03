@@ -14,7 +14,6 @@ I'm a **Software Engineer** focused on building high-performance systems and men
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
-  <img src="https://fly.io/static/images/brand/logo-landscape.svg" alt="flutter" width="40" height="40" />
 </p>
 
 ### Infrastructure & Databases
