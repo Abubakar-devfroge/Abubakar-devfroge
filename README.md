@@ -25,6 +25,7 @@ I'm a **Software Engineer** focused on building high-performance systems and men
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="digitalocean" width="40" height="40" />
+  \<img src="[https://www.vectorlogo.zone/logos/flyio/flyio-icon.svg](https://www.google.com/search?q=https://www.vectorlogo.zone/logos/flyio/flyio-icon.svg)" alt="flyio" width="40" height="40" /\>
 </p>
 
 ---
