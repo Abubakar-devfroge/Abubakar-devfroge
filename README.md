@@ -29,15 +29,14 @@ I specialize in building high-performance distributed systems using the **BEAM e
 
 ---
 
-## 🚀 My Impact & Consistency
+## Engineering Velocity & Contributions
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abubakar-devfroge&show_icons=true&theme=tokyonight&hide_border=true" alt="Abubakar's Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abubakar-devfroge&theme=tokyonight&hide_border=true" alt="Abubakar's Streak" />
 </p>
 
 ---
 
-## 🏗 Projects & Community
+## 🏗 Projects
 
 * 🎓 **[Lockkin.tech](https://www.lockkin.tech/)** — Leading an engineering training school to mentor the next generation of world-class developers in functional programming and systems thinking.
 * 📦 **[Parcel Management System](https://parcel-loidc.ondigitalocean.app/)** — A production-ready logistics solution built with **Ash Framework/Elixir** to streamline operations for Kenyan bus companies.
