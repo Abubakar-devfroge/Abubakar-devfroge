@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abubakar
 
-### Software Architect | Founder & CTO at [Lockkin Labs](https://lockkin.tech)
+### Software Architect | Founder & CTO at [Lockkin Labs](https://lockkin.tech/)
 
 I specialize in building high-performance distributed systems using the **BEAM ecosystem**. My focus is on creating resilient digital infrastructure for the African market and mentoring the next generation of "Stark-level" engineers.
 
