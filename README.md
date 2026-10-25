@@ -2,7 +2,7 @@
 
 ### Software Architect | Founder & CTO at [Lockkin Labs](https://lockkin.tech/)
 
-I specialize in building high-performance distributed systems in the **BEAM ecosystem** — resilient digital infrastructure for the African market, mentoring the next generation of engineers.
+I build web applications and distributed systems in the **BEAM ecosystem** — mostly with Elixir and Phoenix — for the African market, and mentor the next generation of engineers at Lockkin Labs.
 
 ---
 
@@ -29,7 +29,7 @@ I specialize in building high-performance distributed systems in the **BEAM ecos
 
 ---
 
-## ⚙️ Engineering Velocity & Contributions
+## ⚙️ Contribution Stats
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abubakar-devfroge&theme=tokyonight&hide_border=true" alt="Abubakar's Streak" />
 </p>
@@ -38,10 +38,15 @@ I specialize in building high-performance distributed systems in the **BEAM ecos
 
 ## 🏗 Featured Projects
 
-* 🕒 **[Once — Biometric Attendance System](https://biometric.fly.dev/)** — my flagship: real-time attendance from biometric devices, payroll-ready reporting, multi-tenant. Built with **Elixir / Phoenix LiveView** and deployed on Fly.io. Full code with engineering notes: [Abubakar-devfroge/BIOMETRIC](https://github.com/Abubakar-devfroge/BIOMETRIC)
-* 🎓 **[Lockkin.tech](https://www.lockkin.tech/)** — engineering training school mentoring the next generation of developers in functional programming and systems thinking
+* 🐦 **[Budgie](https://github.com/Abubakar-devfroge/Budgie)** — income and expense tracker for small and medium businesses: real-time transaction tracking, invoice generation, exportable reports, and sharing to Slack, X, and more. Built with **Elixir / Phoenix** and deployed on Fly.io.
+  <br>Live demo → [first-dark-sea-8115.fly.dev](https://first-dark-sea-8115.fly.dev/) | Code + README → [Abubakar-devfroge/Budgie](https://github.com/Abubakar-devfroge/Budgie)
+* 🕒 **[Once — Biometric Attendance System](https://github.com/Abubakar-devfroge/BIOMETRIC)** — real-time attendance from biometric devices, payroll-ready reporting, multi-tenant. Built with **Elixir / Phoenix LiveView** and deployed on Fly.io.
+  <br>Live demo → [biometric.fly.dev](https://biometric.fly.dev/) | Code + engineering notes → [Abubakar-devfroge/BIOMETRIC](https://github.com/Abubakar-devfroge/BIOMETRIC)
+
+### Other Projects
+
 * 📦 **[Parcel Management System](https://parcel-loidc.ondigitalocean.app/)** — logistics solution built with **Ash Framework / Elixir** for Kenyan bus companies
-* 🐦 **[Budgie](https://first-dark-sea-8115.fly.dev/)** — financial tracking engine for SMEs: cash-flow visibility and invoicing efficiency
+* 🎓 **[Lockkin.tech](https://www.lockkin.tech/)** — engineering training school: functional programming and systems thinking
 
 ---
 
