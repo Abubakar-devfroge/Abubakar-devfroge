@@ -2,7 +2,7 @@
 
 ### Software Architect | Founder & CTO at [Lockkin Labs](https://lockkin.tech/)
 
-I specialize in building high-performance distributed systems using the **BEAM ecosystem**. My focus is on creating resilient digital infrastructure for the African market and mentoring the next generation of "Stark-level" engineers.
+I specialize in building high-performance distributed systems in the **BEAM ecosystem** — resilient digital infrastructure for the African market, mentoring the next generation of engineers.
 
 ---
 
@@ -11,7 +11,7 @@ I specialize in building high-performance distributed systems using the **BEAM e
 ### Languages & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" alt="elixir" />
-  <img src="https://img.shields.io/badge/Ash_Framework-E34F26?style=for-the-badge&logo=phoenix&logoColor=white" alt="ash" />
+  <img src="https://img.shields.io/badge/Phoenix-E34F26?style=for-the-badge&logo=phoenix&logoColor=white" alt="phoenix" />
   <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="svelte" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
@@ -29,23 +29,24 @@ I specialize in building high-performance distributed systems using the **BEAM e
 
 ---
 
-## Engineering Velocity & Contributions
+## ⚙️ Engineering Velocity & Contributions
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abubakar-devfroge&theme=tokyonight&hide_border=true" alt="Abubakar's Streak" />
 </p>
 
 ---
 
-## 🏗 Projects
+## 🏗 Featured Projects
 
-* 🎓 **[Lockkin.tech](https://www.lockkin.tech/)** — Leading an engineering training school to mentor the next generation of world-class developers in functional programming and systems thinking.
-* 📦 **[Parcel Management System](https://parcel-loidc.ondigitalocean.app/)** — A production-ready logistics solution built with **Ash Framework/Elixir** to streamline operations for Kenyan bus companies.
-* 🐦 **[Budgie](https://first-dark-sea-8115.fly.dev/)** — An automated financial tracking engine designed for SMEs to improve cash flow visibility and invoicing efficiency.
+* 🕒 **[Once — Biometric Attendance System](https://biometric.fly.dev/)** — my flagship: real-time attendance from biometric devices, payroll-ready reporting, multi-tenant. Built with **Elixir / Phoenix LiveView** and deployed on Fly.io. Full code with engineering notes: [Abubakar-devfroge/BIOMETRIC](https://github.com/Abubakar-devfroge/BIOMETRIC)
+* 🎓 **[Lockkin.tech](https://www.lockkin.tech/)** — engineering training school mentoring the next generation of developers in functional programming and systems thinking
+* 📦 **[Parcel Management System](https://parcel-loidc.ondigitalocean.app/)** — logistics solution built with **Ash Framework / Elixir** for Kenyan bus companies
+* 🐦 **[Budgie](https://first-dark-sea-8115.fly.dev/)** — financial tracking engine for SMEs: cash-flow visibility and invoicing efficiency
 
 ---
 
 ## 📫 Connect with me
 <p align="left">
   <a href="https://my-websiite.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
-  <a href="mailto:abubakar@caftinc.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:info.devforge@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
